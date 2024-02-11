@@ -15,3 +15,5 @@ Recommendations: • Execute Q1 Purchase: Place immediate order for 15,974 units
 Impact: This project bridges the gap between Data Science and Operations Management. It demonstrates how predictive modeling can directly influence financial decision-making, transforming raw sales data into an actionable procurement strategy that protects revenue and optimizes working capital.
 
 Tools Used: Python (Facebook Prophet, Pandas, Matplotlib, Seaborn), Time Series Analysis, Inventory Management Theory, Jupyter Notebooks.
+
+<!-- auto-update 2024-02-11 11:27:13 -->
