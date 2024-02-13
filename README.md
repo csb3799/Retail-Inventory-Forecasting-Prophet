@@ -17,3 +17,5 @@ Impact: This project bridges the gap between Data Science and Operations Managem
 Tools Used: Python (Facebook Prophet, Pandas, Matplotlib, Seaborn), Time Series Analysis, Inventory Management Theory, Jupyter Notebooks.
 
 <!-- auto-update 2024-02-11 11:27:13 -->
+
+<!-- auto-update 2024-02-13 11:27:13 -->
